@@ -1,0 +1,30 @@
+	body {
+		color: black;
+		background-color:  #ede1e1;
+		font-family: serif;
+		text-align: center;
+		font-style: italic;
+		text-transform: capitalize;
+		font-size: 125%;
+		}
+	h1 {
+		color: #572a4b;
+		font-family: Arial;}
+	a:link {
+		text-decoration: underline;
+		color: purple;
+		text-align: center;}
+	a:hover {color: black;
+			 text-decoration: underline;
+			 font-family: georgia;
+			 font-size: 150%;}
+	.intro { 
+			margin: 40px 0px 20px 0px;
+			border: 1px solid #712d87;
+			}
+	p {font-size:90%;
+	   font-family: arial;
+	   color: purple;}
+	ul {
+		align: center;
+		color: purple;}
